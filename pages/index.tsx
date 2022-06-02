@@ -10,7 +10,7 @@ export default function Home() {
     <HeadMats img="/home.svg" title="Home Page"/>
     <Header/>
     <div className='box-border text-center mt-32'>    
-    <h1 className=' p-10 text-3xl overflow-ellipsis'>Hello! I'm <span className='font-bold'>Ihsan</span>.<br/> I learn anything attracted me but never finish what I've learnt LOL.</h1>
+    <h1 className=' p-10 text-3xl overflow-ellipsis'>Hello! Im <span className='font-bold'>Ihsan</span>.<br/> I learn anything attracted me but never finish what Ive learnt LOL.</h1>
     <h2>Click the button below to know more <Link href="/about"><a className='text-blue-600'>About Me</a></Link></h2>
     <button type='button' className='m-3 p-8 border-black border-4 rounded-full'><Link href="about"><a>ABOUT ME</a></Link></button>
     </div>
